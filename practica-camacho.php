@@ -11,7 +11,7 @@
 >>>>>>> ad6ff3d0c0e4467d74ec0aae27995cd9d5f5a7c7
 * @internal si
 * @version    SVN: $Id$
-* Calcular la multiplicación de dos números
+* Calcular la division de dos números
 *
 *Esta fucion toma los dos argumentos de entrada $a y $b, los suma y retorna la suma de ambos numeros
 *
@@ -20,7 +20,7 @@
 *
 * @return in la suma de 2numeros
 */
-function multi($a, $b)
+function division($a, $b)
 {
         return $a + $b;
 }
