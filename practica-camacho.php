@@ -6,7 +6,7 @@
 *La función ahora en de multiplicar
 * @internal si
 * @version    SVN: $Id$
-* Calcular la suma de 2 numeros
+* Calcular la multiplicación de dos números
 *
 *Esta fucion toma los dos argumentos de entrada $a y $b, los suma y retorna la suma de ambos numeros
 *
