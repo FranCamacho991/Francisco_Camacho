@@ -1,7 +1,9 @@
 <?php
 
 /**
-* @author Fran Camacho
+* @author Ronaldo Nazario de Lima
+* Hemos cambiado el nombre del autor por uno inventado
+*La función ahora en de multiplicar
 * @internal si
 * @version    SVN: $Id$
 * Calcular la suma de 2 numeros
@@ -13,7 +15,7 @@
 *
 * @return in la suma de 2numeros
 */
-function sumar($a, $b)
+function multi($a, $b)
 {
         return $a + $b;
 }
