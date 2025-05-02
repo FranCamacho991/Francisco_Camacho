@@ -1,7 +1,8 @@
 <?php
 
 /**
-* @author Fran Camacho
+* @author Fran Camacho Gómez
+* @email francisco.camacho.gomez@hotmail.com
 * @internal si
 * @version    SVN: $Id$
 * Calcular la suma de 2 numeros
